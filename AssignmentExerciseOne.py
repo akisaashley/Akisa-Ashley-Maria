@@ -1,6 +1,6 @@
 # ATM Withdrawal Program
 
-account_balance = 5000.0  # You can set this as your initial balance
+account_balance = 5000.0  # set this as your initial balance
 
 withdraw_amount = float(input("Enter amount to withdraw: "))
 5
